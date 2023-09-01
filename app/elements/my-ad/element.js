@@ -19,7 +19,7 @@
     },
 
     ready(){
-      if(window.location.hostname.toLowerCase() === 'stitchpics.net'){
+      if(True){
         let ins = document.createElement('ins');
         ins.dataset.adClient = this.client;
         ins.dataset.adSlot = this.slot;

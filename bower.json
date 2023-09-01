@@ -1,5 +1,5 @@
 {
-  "name": "StitchPics",
+  "name": "CrossStitchGenerator",
   "private": true,
   "dependencies": {
     "FileSaver.js": "eligrey/FileSaver.js",
